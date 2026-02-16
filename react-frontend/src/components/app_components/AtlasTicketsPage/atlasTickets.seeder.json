@@ -1,0 +1,11 @@
+[
+    {
+        "machineId": "674e7c65d159115bb8276fc4",
+        "checklistResponse": "Machine is overheating",
+        "assignedSupervisor": "674e7c65d159115bb8276fc4",
+        "assignedTechnician": "674e7c65d159115bb8276fc4",
+        "status": "Progress",
+        "startTime": "2024-12-03T03:35:01.074Z",
+        "endTime": "2024-12-03T03:35:01.074Z"
+    }
+]

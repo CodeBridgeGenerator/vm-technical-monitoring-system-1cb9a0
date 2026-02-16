@@ -1,0 +1,15 @@
+[
+    {
+        "ownership": "AVMCR",
+        "vendingMachineCode": "21ET1224",
+        "zone": "K08",
+        "locationCode": "AVMCR1-VMWHS",
+        "locationDesc": "AVMCR1-VMWHS",
+        "modelNo": "DNS5800-4",
+        "serialNumber": 27160010,
+        "vendingMachineId": "COMBO2",
+        "purchaseDate": 45384,
+        "comissionDate": 45385,
+        "description": "description"
+    }
+]
