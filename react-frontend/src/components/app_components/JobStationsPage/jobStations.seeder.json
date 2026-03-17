@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Dismantling",
+        "description": "Disassembling components"
+    },
+    {
+        "name": "Modification",
+        "description": "Making modifications"
+    },
+    {
+        "name": "Painting/Bodyworks",
+        "description": "Painting and body repair"
+    },
+    {
+        "name": "Assembly",
+        "description": "Assembling component"
+    },
+    {
+        "name": "QC",
+        "description": "Quality control and inspection"
+    }
+]
